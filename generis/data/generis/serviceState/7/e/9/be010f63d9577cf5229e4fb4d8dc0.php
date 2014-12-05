@@ -1,0 +1,1 @@
+<?php return '{"RESPONSE":{"list":{"directedPair":[["P","R"],["L","R"],["D","R"],["C","T"]]}}}';

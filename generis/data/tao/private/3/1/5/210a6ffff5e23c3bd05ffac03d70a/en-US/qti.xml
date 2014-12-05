@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1  http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1.xsd" identifier="i14147716487331553" title="Item title" adaptive="false" timeDependent="false">
+  <responseDeclaration baseType="identifier" cardinality="single" identifier="RESPONSE"/>
+  <outcomeDeclaration cardinality="single" baseType="float" identifier="SCORE"/>
+  <stylesheet href="style/custom/tao-user-styles.css" title="" type="text/css" media="all"/>
+  <itemBody>
+    <div class="grid-row">
+      <div class="col-12">
+        <inlineChoiceInteraction shuffle="false" required="false" responseIdentifier="RESPONSE">
+          <inlineChoice fixed="false" showHide="show" identifier="choice_1">choice #1</inlineChoice>
+          <inlineChoice fixed="false" showHide="show" identifier="choice_2">choice #2</inlineChoice>
+          <inlineChoice fixed="false" showHide="show" identifier="choice_3">choice #3</inlineChoice>
+          <inlineChoice fixed="false" showHide="show" identifier="choice_4">choice #4</inlineChoice>
+        </inlineChoiceInteraction>
+      </div>
+    </div>
+  </itemBody>
+  <responseProcessing template="http://www.imsglobal.org/question/qti_v2p1/rptemplates/match_correct"/>
+</assessmentItem>

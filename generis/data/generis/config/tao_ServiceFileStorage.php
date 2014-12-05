@@ -1,0 +1,1 @@
+<?php return array('private' => 'http://localhost/tao.rdf#i141184145331523','public' => 'http://localhost/tao.rdf#i141184145377272','provider' => 0);

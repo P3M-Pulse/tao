@@ -1,0 +1,1 @@
+<?php return 'tao::Main::entry,tao::Main::login,tao::Main::logout,tao::AuthApi::*,tao::Main::entry,tao::Main::login,tao::Main::logout,tao::AuthApi::*';

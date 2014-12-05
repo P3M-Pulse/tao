@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentTest xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="Test-1" title="Test 1" toolName="tao" toolVersion="2.6.5" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1 http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1.xsd">
+  <testPart identifier="testPart-1" navigationMode="linear" submissionMode="individual">
+    <itemSessionControl maxAttempts="0" showFeedback="false" allowReview="true" showSolution="false" allowComment="false" allowSkipping="true" validateResponses="false"/>
+    <assessmentSection identifier="assessmentSection-1" required="true" fixed="false" title="Section 1" visible="true" keepTogether="true">
+      <assessmentItemRef identifier="item-1" required="false" fixed="false" href="http://localhost/tao.rdf#i1411841487392411"/>
+      <assessmentItemRef identifier="item-2" required="false" fixed="false" href="http://localhost/tao.rdf#i141184148845417"/>
+    </assessmentSection>
+    <assessmentSection identifier="assessmentSection-2" required="false" fixed="false" title="Section 2" visible="false" keepTogether="true">
+      <assessmentItemRef identifier="item-3" required="false" fixed="false" href="http://localhost/tao.rdf#i1411841488633014"/>
+      <assessmentItemRef identifier="item-4" required="false" fixed="false" href="http://localhost/tao.rdf#i1411841489540420"/>
+    </assessmentSection>
+  </testPart>
+  <testPart identifier="testPart-2" navigationMode="linear" submissionMode="individual">
+    <assessmentSection identifier="assessmentSection-3" required="false" fixed="false" title="Section 1" visible="false" keepTogether="true">
+      <assessmentItemRef identifier="item-5" required="false" fixed="false" href="http://localhost/tao.rdf#i141184149012723"/>
+      <assessmentItemRef identifier="item-6" required="false" fixed="false" href="http://localhost/tao.rdf#i1411841491304828"/>
+    </assessmentSection>
+  </testPart>
+</assessmentTest>

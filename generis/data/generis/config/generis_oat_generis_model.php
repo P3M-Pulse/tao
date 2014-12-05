@@ -1,0 +1,1 @@
+<?php return array('class' => 'core_kernel_persistence_smoothsql_SmoothModel','config' => array('persistence' => 'default'));

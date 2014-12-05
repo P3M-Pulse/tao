@@ -1,0 +1,1 @@
+<?php return array(0 => 'tao_models_classes_fsAccess_TokenAccessProvider 0 http://localhost/tao.rdf#i141184145377272 {"secret":"b24438d063e4dafe3c80591562320ce6"}');

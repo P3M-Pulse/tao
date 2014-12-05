@@ -1,0 +1,180 @@
+/* http://meyerweb.com/eric/tools/css/reset/ 
+   v2.0 | 20110126
+   License: none (public domain)
+*/
+
+html, body, div, span, applet, object, iframe,
+h1, h2, h3, h4, h5, h6, p, blockquote, pre,
+a, abbr, acronym, address, big, cite, code,
+del, dfn, em, img, ins, kbd, q, s, samp,
+small, strike, strong, sub, sup, tt, var,
+b, u, i, center,
+dl, dt, dd, ol, ul, li,
+fieldset, form, label, legend,
+table, caption, tbody, tfoot, thead, tr, th, td,
+article, aside, canvas, details, embed, 
+figure, figcaption, footer, header, hgroup, 
+menu, nav, output, ruby, section, summary,
+time, mark, audio, video {
+	margin: 0;
+	padding: 0;
+	border: 0;
+	font-size: 100%;
+	font: inherit;
+	vertical-align: baseline;
+}
+/* HTML5 display-role reset for older browsers */
+article, aside, details, figcaption, figure, 
+footer, header, hgroup, menu, nav, section {
+	display: block;
+}
+body {
+	line-height: 1;
+}
+ol, ul {
+	list-style: none;
+}
+blockquote, q {
+	quotes: none;
+}
+blockquote:before, blockquote:after,
+q:before, q:after {
+	content: '';
+	content: none;
+}
+table {
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+
+/* Item related CSS */
+body {
+	font-size: 24px;
+}
+
+body, button {
+	font-family: "Arabic Transparent";
+}
+
+#item {
+	width: 500px;
+	height: 400px;
+	margin: 35px auto 0 auto;
+	padding: 20px;
+	border: 1px solid red;
+	background-image: url("background.jpg");
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	border: 5px solid #bfbfbf;
+}
+
+h1 {
+	margin-bottom: 15px;
+	font-size: 1.7em;
+	font-weight: bold;
+	text-align: center;
+}
+
+#prompt, #instruction {
+	margin-bottom: 25px;
+	text-align: justify;
+}
+
+#prompt {
+	font-size: 1.2em;
+}
+
+#prompt em, #instruction em {
+	font-weight: bold;
+	font-style: normal;
+}
+
+#instruction {
+	font-size: 0.8em;
+	line-height: 16px;
+}
+
+.image_selector {
+	height: 230px;
+	width: 155px;
+	float: right;
+	margin-right: 9px;
+}
+
+.image_selector .thing {
+	display:none;
+	-moz-border-radius: 7px;
+	border-radius: 7px;
+	border: 5px solid #bfbfbf;
+}
+
+.navigation {
+	margin-top: 20px;
+}
+
+.navigation, .validation {
+	margin-top: 20px;
+	text-align: center;
+}
+
+.next, .previous, #validation-trigger {
+	height: 25px;
+	background-repeat: no-repeat;
+	padding-bottom: 2px;
+}
+
+.previous, .validate {
+	background-position: 4px 2px;
+}
+
+.previous {
+	background-image: url("next.png");
+	width: 25px;
+}
+
+.next {
+	width: 25px;
+	background-position: 2px 2px;
+	background-image: url("previous.png");
+}
+
+#validation-trigger {
+	background-image: url("validate.png");
+	width: 120px;
+	background-color:  #d0ffcf;
+	border-color: #049c00;
+	color: #049c00;
+	background-position: 90px 2px;
+	text-align: left;
+	padding-left: 20px;
+	display:block;
+	margin: 0 auto;
+}
+
+button {
+	background-color: #d9d7d7;
+	border: 2px solid  #464646;
+	font-weight: bold;
+	color: #464646;
+	-moz-border-radius: 2px;
+	border-radius: 2px;
+	outline: none;
+	font-size: 0.8em;
+}
+
+button::-moz-focus-inner {
+	border: 0;
+}
+
+button.disabled {
+	background-color: #ededed!important;
+	border-color: #858585!important;
+	color: #858585!important;
+}
+
+.clear {
+	width: 100%;
+	height: 1px;
+	margin: 0 0 -1px;
+	clear: both;
+}

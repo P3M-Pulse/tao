@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1  http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1.xsd" identifier="match-multiple-cardinality" title="Characters and Plays" label="" xml:lang="en-US" adaptive="false" timeDependent="false" toolName="TAO" toolVersion="2.6.5">
+  <responseDeclaration identifier="RESPONSE" cardinality="multiple" baseType="directedPair">
+    <correctResponse>
+      <value>C R</value>
+      <value>D M</value>
+      <value>L M</value>
+      <value>P T</value>
+    </correctResponse>
+    <mapping defaultValue="0">
+      <mapEntry mapKey="C R" mappedValue="1"/>
+      <mapEntry mapKey="D M" mappedValue="0.5"/>
+      <mapEntry mapKey="L M" mappedValue="0.5"/>
+      <mapEntry mapKey="P T" mappedValue="1"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+  <itemBody>
+    <matchInteraction responseIdentifier="RESPONSE" shuffle="true" maxAssociations="4" minAssociations="0">
+      <prompt>Match the following characters to the Shakespeare play they appeared in:</prompt>
+      <simpleMatchSet>
+        <simpleAssociableChoice identifier="C" fixed="false" matchMax="1" matchMin="0">Capulet</simpleAssociableChoice>
+        <simpleAssociableChoice identifier="D" fixed="false" matchMax="1" matchMin="0">Demetrius</simpleAssociableChoice>
+        <simpleAssociableChoice identifier="L" fixed="false" matchMax="1" matchMin="0">Lysander</simpleAssociableChoice>
+        <simpleAssociableChoice identifier="P" fixed="false" matchMax="1" matchMin="0">Prospero</simpleAssociableChoice>
+      </simpleMatchSet>
+      <simpleMatchSet>
+        <simpleAssociableChoice identifier="M" fixed="false" matchMax="4" matchMin="0">A Midsummer-Night's Dream</simpleAssociableChoice>
+        <simpleAssociableChoice identifier="R" fixed="false" matchMax="4" matchMin="0">Romeo and Juliet</simpleAssociableChoice>
+        <simpleAssociableChoice identifier="T" fixed="false" matchMax="4" matchMin="0">The Tempest</simpleAssociableChoice>
+      </simpleMatchSet>
+    </matchInteraction>
+  </itemBody>
+  <responseProcessing template="http://www.imsglobal.org/question/qti_v2p1/rptemplates/map_response"/>
+</assessmentItem>

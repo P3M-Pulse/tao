@@ -1,0 +1,1 @@
+<?php return 'PT5S';

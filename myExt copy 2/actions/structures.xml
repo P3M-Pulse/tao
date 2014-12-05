@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+<structure id='myExt' name="PM-Partners" level="7" visible="true">
+  <description>Copyright @ PM-Partners.</description>
+ 	<sections>
+			<section id="manage_mydelivery_assembly" name="My Delivery" url="/myExt/DeliveryAction/index">
+				<trees>
+					<tree name="Deliveries library"
+						className="Delivery"
+						dataUrl="/myExt/DeliveryAction/getOntologyData"
+						editClassUrl="/myExt/DeliveryAction/editDeliveryClass"
+						editInstanceUrl="/myExt/DeliveryAction/editDelivery"
+						addSubClassUrl="/myExt/DeliveryAction/addSubClass"
+						deleteUrl="/myExt/DeliveryAction/delete"
+						moveInstanceUrl="/myExt/DeliveryAction/moveInstance"
+					/>
+					</trees>
+				<actions>
+					<action name="search" url="/myExt/DeliveryAction/search" context="*" />
+					<action name="new class" js="subClass" url="/myExt/DeliveryAction/addSubClass" context="class" />
+					<action name="new delivery" url="/myExt/Authoring/wizard" context="class" />
+					<action name="delete" js="removeNode" url="/myExt/DeliveryAction/delete" context="resource" />
+					<action name="move" js="moveNode" url="" context="instance" />
+					<action name="LTI" url="/myExt/DeliveryAction/index" context="instance" />
+				</actions>
+			</section>
+	</sections>
+</structure>
+</structures>

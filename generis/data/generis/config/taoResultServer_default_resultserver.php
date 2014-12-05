@@ -1,0 +1,1 @@
+<?php return 'http://www.tao.lu/Ontologies/TAOResult.rdf#taoResultServer';

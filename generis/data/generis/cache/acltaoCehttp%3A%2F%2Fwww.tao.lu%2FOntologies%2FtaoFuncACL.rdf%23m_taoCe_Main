@@ -1,0 +1,1 @@
+<?php return array('module' => array(),'actions' => array('http://www.tao.lu/Ontologies/taoFuncACL.rdf#a_taoCe_Main_index' => array(0 => 'http://www.tao.lu/Ontologies/TAO.rdf#BackOfficeRole')));

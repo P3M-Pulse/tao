@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension SYSTEM "../../tao/doc/structures.dtd">
+<structures>
+<structure id='taoDocsFin' name="Documents" level="7" visible="true">
+  <description>An example extension.</description>
+  <sections>
+    <section id="manage_docs" name="Manage documents" url="/taoDocsFin/Browser/index">
+      <trees>
+      <tree name="Documents library" dataUrl="/taoDocsFin/Browser/getTreeData" editInstanceUrl="/taoDocsFin/Browser/editDocument" />
+      
+      </trees>
+      <actions>
+      <action name="delete" url="/taoDocsFin/Browser/delete" context="instance" />
+      
+      </actions>
+    </section>
+  </sections>
+</structure>
+</structures>

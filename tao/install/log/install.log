@@ -1,0 +1,855 @@
+2014-09-27 20:10:22 [DEBUG] 'Check if database with name 'tao' exists for driver pdo_mysql' C:\xampp\htdocs\tao\tao\install\utils\class.DbalDbCreator.php 82
+2014-09-27 20:10:48 [INFO] 'Checking install data' C:\xampp\htdocs\tao\tao\install\class.Installator.php 75
+2014-09-27 20:10:48 [INFO] 'Starting TAO install' C:\xampp\htdocs\tao\tao\install\class.Installator.php 78
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_1' in 'C:\xampp\htdocs\tao/taoResults/views/genpics is compliant with expected rights (rw).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'MathJax JavaScript library not installed. To enable MathML expressions in your QTI items, you need to install the third-party MathJax library.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Version (5.5.15) is higher or equal to 5.3.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Extension 'PDO' is loaded.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Extension 'curl' is loaded.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Extension 'zip' is loaded.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Extension 'json' is loaded.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Extension 'spl' is loaded.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Extension 'dom' is loaded.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Extension 'mbstring' is loaded.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'PHP Configuration Option 'short_open_tag' = '1' has an expected value.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_2' in 'C:\xampp\htdocs\tao/. is compliant with expected rights (rw).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_3' in 'C:\xampp\htdocs\tao/generis/common/conf is compliant with expected rights (rw).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_4' in 'C:\xampp\htdocs\tao/generis/common/conf/default is compliant with expected rights (r).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_5' in 'C:\xampp\htdocs\tao/generis/common/conf/sample is compliant with expected rights (r).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_6' in 'C:\xampp\htdocs\tao/tao is compliant with expected rights (rw).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_7' in 'C:\xampp\htdocs\tao/tao/includes is compliant with expected rights (rw).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'File system component 'FileSystemComponentCheck_8' in 'C:\xampp\htdocs\tao/tao/locales is compliant with expected rights (r).'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'You are not using Nginx.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'URL rewriting is enabled.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'A suitable database driver is available.' C:\xampp\htdocs\tao\tao\install\class.Installator.php 109
+2014-09-27 20:10:48 [INFO] 'Spawning DbCreator' C:\xampp\htdocs\tao\tao\install\class.Installator.php 119
+2014-09-27 20:10:48 [DEBUG] 'DbCreator spawned' C:\xampp\htdocs\tao\tao\install\class.Installator.php 152
+2014-09-27 20:10:48 [DEBUG] 'Check if database with name 'tao' exists for driver pdo_mysql' C:\xampp\htdocs\tao\tao\install\utils\class.DbalDbCreator.php 82
+2014-09-27 20:10:48 [DEBUG] 'Switch to database tao' C:\xampp\htdocs\tao\tao\install\utils\class.DbalDbCreator.php 107
+2014-09-27 20:10:48 [INFO] 'Dropped all tables' C:\xampp\htdocs\tao\tao\install\class.Installator.php 176
+2014-09-27 20:10:48 [INFO] 'Created tables' C:\xampp\htdocs\tao\tao\install\class.Installator.php 197
+2014-09-27 20:10:48 [INFO] 'Installing stored procedures for pdo_mysql' C:\xampp\htdocs\tao\tao\install\class.Installator.php 201
+2014-09-27 20:10:48 [DEBUG] 'Writing db config' C:\xampp\htdocs\tao\tao\install\class.Installator.php 219
+2014-09-27 20:10:48 [DEBUG] 'Writing generis config' C:\xampp\htdocs\tao\tao\install\class.Installator.php 233
+2014-09-27 20:10:48 [DEBUG] 'Running the extensions bootstrap' C:\xampp\htdocs\tao\tao\install\class.Installator.php 262
+2014-09-27 18:10:48 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:48 [TRACE] 'Loading extension generis' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:48 [TRACE] 'Loading extension generis constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:48 [DEBUG] 'modelId not found, need to add namespace http://localhost/tao.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:48 [DEBUG] 'Inserting language description model 'C:\xampp\htdocs\tao\tao\install\utils/../../../tao/locales/da-DK/lang.rdf'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 275
+2014-09-27 18:10:48 [DEBUG] 'Inserting language description model 'C:\xampp\htdocs\tao\tao\install\utils/../../../tao/locales/en-US/lang.rdf'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 275
+2014-09-27 18:10:48 [DEBUG] 'Inserting language description model 'C:\xampp\htdocs\tao\tao\install\utils/../../../tao/locales/fr-FR/lang.rdf'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 275
+2014-09-27 18:10:48 [DEBUG] 'Inserting language description model 'C:\xampp\htdocs\tao\tao\install\utils/../../../tao/locales/pt-PT/lang.rdf'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 275
+2014-09-27 18:10:48 [DEBUG] 'Inserting language description model 'C:\xampp\htdocs\tao\tao\install\utils/../../../tao/locales/sv-SE/lang.rdf'' C:\xampp\htdocs\tao\tao\install\class.Installator.php 275
+2014-09-27 18:10:48 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\generis/core/ontology/22-rdf-syntax-ns.rdf for generis' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:48 [DEBUG] 'modelId not found, need to add namespace http://www.w3.org/1999/02/22-rdf-syntax-ns#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:48 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\generis/core/ontology/rdf-schema.rdf for generis' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:48 [DEBUG] 'modelId not found, need to add namespace http://www.w3.org/2000/01/rdf-schema#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:48 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\generis/core/ontology/widgetdefinitions.rdf for generis' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:48 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/datatypes/WidgetDefinitions.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:48 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\generis/core/ontology/rules.rdf for generis' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:48 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/middleware/Rules.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:49 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\generis/core/ontology/generis.rdf for generis' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:49 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/generis.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:49 [DEBUG] 'Registering extension generis' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:10:49 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:49 [DEBUG] 'Installing custom script for extension generis' C:\xampp\htdocs\tao\generis\common\ext\class.GenerisInstaller.php 67
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoCe constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension tao constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension funcAcl constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoItems constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoQtiItem constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoQtiCommon constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoOpenWebItem constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoTests constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoQtiTest constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoWfTest constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension wfEngine constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoSubjects constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoGroups constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoDelivery constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoResultServer constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoSimpleDelivery constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 59
+2014-09-27 18:10:49 [TRACE] 'Loading extension taoResults constants' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionLoader.php 75
+2014-09-27 18:10:49 [DEBUG] 'Extension taoCe needs to be installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 299
+2014-09-27 18:10:49 [DEBUG] 'Considering extension taoCe' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:49 [DEBUG] 'Extension tao is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension funcAcl is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoItems is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoQtiItem is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoQtiCommon is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoOpenWebItem is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoTests is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoQtiTest is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoWfTest is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension wfEngine is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoSubjects is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoGroups is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoDelivery is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoResultServer is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoSimpleDelivery is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Extension taoResults is required but missing, added to install list' C:\xampp\htdocs\tao\tao\install\class.Installator.php 332
+2014-09-27 18:10:49 [DEBUG] 'Considering extension taoCe' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:49 [DEBUG] 'Considering extension tao' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:49 [INFO] 'Installing extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:10:49 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\tao/models/ontology/tao.rdf for tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:49 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAO.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:51 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\tao/models/ontology/taoaclrole.rdf for tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:51 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\tao/models/ontology/oauth.rdf for tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:52 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\tao/models/ontology/webservice.rdf for tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:52 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\tao/models/ontology/services.rdf for tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:52 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/middleware/wfEngine.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:53 [DEBUG] 'Registering extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:10:53 [INFO] 'Loading constants for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [DEBUG] 'Installing custom script for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:10:53 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\tao/scripts/install/addFileUploadSource.php for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg3c0776dd2ff6cc2d9650d47ae4b0a7bc'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryUrl' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgcf473415d58967564dda0eb8d2f1aaff'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryPath' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg21f1608662fb5835c6446f4a624bf2be'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryType' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg7a8749c54fef30dc73653c5a6679a3a0'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryLogin' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLge9ea26987a7c8a40bbd9c5b0eea5ac04'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryPassword' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgf6640766e16c1c875b080586d94e6a21'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryEnabled' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\tao/scripts/install/setSimpleAccess.php for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:10:53 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\tao/scripts/install/setupServiceFileStorage.php for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:10:53 [DEBUG] 'Done installing custom script for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:10:53 [DEBUG] 'Installing local data for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:10:53 [DEBUG] 'Done installing local data for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:10:53 [DEBUG] 'Extended install for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAO.rdf#TaoManagerRole created for extension 'tao'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:10:53 [DEBUG] 'Done extended install for extension tao' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:10:53 [WARNING] 'Extension tao installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:10:53 [DEBUG] 'Considering extension funcAcl' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:53 [INFO] 'Installing extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:10:53 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\funcAcl/models/ontology/taofuncacl.rdf for funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:53 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/taoFuncACL.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:53 [DEBUG] 'Registering extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:10:53 [INFO] 'Loading constants for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [DEBUG] 'Installing custom script for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:10:53 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\funcAcl/scripts/install/setFuncAclImpl.php for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:10:53 [INFO] 'Spawning Module/Action model for extension tao' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:53 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:53 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:54 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:54 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:54 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:54 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:55 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgeceb5f019ef19a46e76575fad70baa1b'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:55 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessAction' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:55 [INFO] 'Spawning Module/Action model for extension funcAcl' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:10:56 [DEBUG] 'Done installing custom script for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:10:56 [DEBUG] 'Installing local data for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:10:56 [DEBUG] 'Done installing local data for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:10:56 [DEBUG] 'Extended install for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:10:56 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:56 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:56 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/taoFuncACL.rdf#FuncAclManagerRole created for extension 'funcAcl'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:10:56 [DEBUG] 'Done extended install for extension funcAcl' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:10:56 [WARNING] 'Extension funcAcl installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:10:56 [DEBUG] 'Considering extension taoItems' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:56 [INFO] 'Installing extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:10:56 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoItems/models/ontology/taoitem.rdf for taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:56 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAOItem.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:58 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoItems/models/ontology/taoItemRunner.rdf for taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:58 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAODelivery.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:10:58 [DEBUG] 'Registering extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:10:58 [INFO] 'Loading constants for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [DEBUG] 'Installing custom script for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:10:58 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\taoItems/scripts/install/addLocalSource.php for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg3c0776dd2ff6cc2d9650d47ae4b0a7bc'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryUrl' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgcf473415d58967564dda0eb8d2f1aaff'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryPath' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg21f1608662fb5835c6446f4a624bf2be'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryType' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg7a8749c54fef30dc73653c5a6679a3a0'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryLogin' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLge9ea26987a7c8a40bbd9c5b0eea5ac04'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryPassword' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgf6640766e16c1c875b080586d94e6a21'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryEnabled' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [DEBUG] 'Done installing custom script for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:10:58 [DEBUG] 'Installing local data for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:10:58 [DEBUG] 'Done installing local data for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:10:58 [DEBUG] 'Extended install for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOItem.rdf#ItemsManagerRole created for extension 'taoItems'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:10:58 [INFO] 'Spawning Module/Action model for extension taoItems' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:58 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:58 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:59 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:59 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:59 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:59 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:10:59 [DEBUG] 'Done extended install for extension taoItems' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:10:59 [WARNING] 'Extension taoItems installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:10:59 [DEBUG] 'Considering extension taoQtiItem' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:59 [DEBUG] 'Considering extension taoQtiCommon' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:59 [INFO] 'Installing extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:10:59 [DEBUG] 'Registering extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:10:59 [INFO] 'Loading constants for extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:10:59 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:59 [DEBUG] 'Installing custom script for extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:10:59 [DEBUG] 'Done installing custom script for extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:10:59 [DEBUG] 'Installing local data for extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:10:59 [DEBUG] 'Done installing local data for extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:10:59 [DEBUG] 'Extended install for extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:10:59 [INFO] 'No management role for extension 'taoQtiCommon'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 95
+2014-09-27 18:10:59 [DEBUG] 'Done extended install for extension taoQtiCommon' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:10:59 [WARNING] 'Extension taoQtiCommon installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:10:59 [DEBUG] 'Considering extension taoOpenWebItem' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:10:59 [INFO] 'Installing extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:10:59 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoOpenWebItem/install/ontology/openWebItem.rdf for taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:10:59 [DEBUG] 'Registering extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:10:59 [INFO] 'Loading constants for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:10:59 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:10:59 [DEBUG] 'Installing custom script for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:10:59 [DEBUG] 'Done installing custom script for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:10:59 [DEBUG] 'Installing local data for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:10:59 [DEBUG] 'Running local data script C:\xampp\htdocs\tao\taoOpenWebItem/install/examples/addOWIExamples.php for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 285
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgd6568163ddc740c18b4204b90d8bb3b6'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/TAOItem.rdf#ItemModel' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg8ee41a180c1e6ad0754535af389c2883'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FileName' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1a8f9a863d623242d629c840750988c6'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FilePath' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgb4cccedbcd0e4b357db635a401fbc7bc'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FileRepository' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg3bebf2a418288c80a321f3c2e4d4f6d2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/TAOItem.rdf#ItemContent' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:00 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:00 [DEBUG] 'Done installing local data for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:00 [DEBUG] 'Extended install for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOItem.rdf#OWIManagerRole created for extension 'taoOpenWebItem'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:00 [INFO] 'Spawning Module/Action model for extension taoOpenWebItem' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [DEBUG] 'Namespace not empty for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.Extension.php 325
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:00 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:00 [DEBUG] 'Done extended install for extension taoOpenWebItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:00 [WARNING] 'Extension taoOpenWebItem installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:00 [DEBUG] 'Considering extension taoTests' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:00 [INFO] 'Installing extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:00 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoTests/models/ontology/taotest.rdf for taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:00 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAOTest.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:11:01 [DEBUG] 'Registering extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:01 [INFO] 'Loading constants for extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [DEBUG] 'Installing custom script for extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:01 [DEBUG] 'Done installing custom script for extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:01 [DEBUG] 'Installing local data for extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:01 [DEBUG] 'Done installing local data for extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:01 [DEBUG] 'Extended install for extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:01 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOTest.rdf#TestsManagerRole created for extension 'taoTests'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:01 [INFO] 'Spawning Module/Action model for extension taoTests' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:01 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:01 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:02 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:02 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:02 [DEBUG] 'Done extended install for extension taoTests' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:02 [WARNING] 'Extension taoTests installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:02 [DEBUG] 'Considering extension taoQtiTest' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:02 [DEBUG] 'Considering extension taoWfTest' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:02 [DEBUG] 'Considering extension wfEngine' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:02 [INFO] 'Installing extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:02 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\wfEngine/models/ontology/wfengine.rdf for wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:14 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\wfEngine/models/ontology/wfRunner.rdf for wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:15 [DEBUG] 'Registering extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:15 [INFO] 'Loading constants for extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [DEBUG] 'Installing custom script for extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:15 [DEBUG] 'Done installing custom script for extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:15 [DEBUG] 'Installing local data for extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:15 [DEBUG] 'Done installing local data for extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:15 [DEBUG] 'Extended install for extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:15 [DEBUG] 'Management Role http://www.tao.lu/middleware/wfEngine.rdf#WorkflowsManagerRole created for extension 'wfEngine'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:15 [INFO] 'Spawning Module/Action model for extension wfEngine' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:15 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:15 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:16 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:16 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:16 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:16 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:16 [INFO] 'Spawning Module/Action model for extension taoSubjects' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:17 [INFO] 'Spawning Module/Action model for extension taoGroups' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:18 [INFO] 'Spawning Module/Action model for extension taoDelivery' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:19 [INFO] 'Spawning Module/Action model for extension taoResults' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:21 [DEBUG] 'Done extended install for extension wfEngine' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:21 [WARNING] 'Extension wfEngine installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:21 [DEBUG] 'Considering extension taoSubjects' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:21 [INFO] 'Installing extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:21 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoSubjects/models/ontology/taosubject.rdf for taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:21 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAOSubject.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:11:21 [DEBUG] 'Registering extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:21 [INFO] 'Loading constants for extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:21 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:21 [DEBUG] 'Installing custom script for extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:21 [DEBUG] 'Done installing custom script for extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:21 [DEBUG] 'Installing local data for extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:21 [DEBUG] 'Done installing local data for extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:21 [DEBUG] 'Extended install for extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:21 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:21 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:21 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOSubject.rdf#SubjectsManagerRole created for extension 'taoSubjects'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:21 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:21 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:21 [DEBUG] 'Done extended install for extension taoSubjects' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:21 [WARNING] 'Extension taoSubjects installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:21 [DEBUG] 'Considering extension taoGroups' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:21 [INFO] 'Installing extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:21 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoGroups/models/ontology/taogroup.rdf for taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:21 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAOGroup.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:11:21 [DEBUG] 'Registering extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:21 [INFO] 'Loading constants for extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:21 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:21 [DEBUG] 'Installing custom script for extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:21 [DEBUG] 'Done installing custom script for extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:21 [DEBUG] 'Installing local data for extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:21 [DEBUG] 'Done installing local data for extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:21 [DEBUG] 'Extended install for extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:21 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:21 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:21 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOGroup.rdf#GroupsManagerRole created for extension 'taoGroups'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:21 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:21 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:21 [DEBUG] 'Done extended install for extension taoGroups' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:21 [WARNING] 'Extension taoGroups installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:21 [DEBUG] 'Considering extension taoDelivery' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:21 [DEBUG] 'Considering extension taoResultServer' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:21 [INFO] 'Installing extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:21 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoResultServer/models/ontology/taoResultServer.rdf for taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:21 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAOResultServer.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:11:22 [DEBUG] 'Registering extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:22 [INFO] 'Loading constants for extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [DEBUG] 'Installing custom script for extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:22 [DEBUG] 'Done installing custom script for extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:22 [DEBUG] 'Installing local data for extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:22 [DEBUG] 'Done installing local data for extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:22 [DEBUG] 'Extended install for extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOResultServer.rdf#ResultServerRole created for extension 'taoResultServer'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:22 [INFO] 'Spawning Module/Action model for extension taoResultServer' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:22 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:22 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:23 [DEBUG] 'Done extended install for extension taoResultServer' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:23 [WARNING] 'Extension taoResultServer installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:23 [DEBUG] 'Considering extension taoSimpleDelivery' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:23 [DEBUG] 'Considering extension taoResults' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:23 [INFO] 'Installing extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:23 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoResults/models/ontology/taoresult.rdf for taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:23 [DEBUG] 'modelId not found, need to add namespace http://www.tao.lu/Ontologies/TAOResult.rdf#' C:\xampp\htdocs\tao\generis\core\kernel\api\class.ModelFactory.php 63
+2014-09-27 18:11:26 [DEBUG] 'Registering extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:26 [INFO] 'Loading constants for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:26 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:26 [DEBUG] 'Installing custom script for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:26 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\taoResults/scripts/install/postInstall.php for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:11:26 [DEBUG] 'Done installing custom script for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:26 [DEBUG] 'Installing local data for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:26 [DEBUG] 'Done installing local data for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:26 [DEBUG] 'Extended install for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:26 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:26 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:26 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOResult.rdf#ResultsManagerRole created for extension 'taoResults'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:26 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:26 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:26 [DEBUG] 'Done extended install for extension taoResults' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:26 [WARNING] 'Extension taoResults installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:26 [DEBUG] 'Considering extension taoCe' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:26 [DEBUG] 'Considering extension taoQtiItem' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:26 [INFO] 'Installing extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:26 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoQtiItem/install/ontology/taoQti.rdf for taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:27 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoQtiItem/install/ontology/qtiItemRunner.rdf for taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:27 [DEBUG] 'Registering extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:27 [INFO] 'Loading constants for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:27 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:27 [DEBUG] 'Installing custom script for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:27 [DEBUG] 'Done installing custom script for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:27 [DEBUG] 'Installing local data for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:27 [DEBUG] 'Running local data script C:\xampp\htdocs\tao\taoQtiItem/install/local/addQTIExamples.php for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 285
+2014-09-27 18:11:27 [INFO] 'Started parsing of QTI item astronomy' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:27 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:27 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:27 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:27 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:27 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:27 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgd6568163ddc740c18b4204b90d8bb3b6'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:27 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/TAOItem.rdf#ItemModel' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg8ee41a180c1e6ad0754535af389c2883'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:28 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FileName' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1a8f9a863d623242d629c840750988c6'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:28 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FilePath' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgb4cccedbcd0e4b357db635a401fbc7bc'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:28 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FileRepository' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:28 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgb8c2cc9f5da94ed49d38f8260e4ca6fa'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:28 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/TAOItem.rdf#hasMeasurement' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4de74bdb6b03fafbf2bcc7862d19b042'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:28 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/TAOItem.rdf#MeasurementIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgfee6e6f160cfcecd4cbdd98ba3b6228f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:28 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/TAOItem.rdf#MeasurementDescription' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg7da5f857dde6270474698f097e41dfad'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:28 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/TAOItem.rdf#isHumanAssisted' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:28 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841487392411' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:28 [INFO] 'Started parsing of QTI item elections-in-the-united-states-2004' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:28 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:28 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841488633014' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:28 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:28 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:28 [INFO] 'Started parsing of QTI item periods-of-history' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:28 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:29 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i141184148845417' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:29 [INFO] 'Started parsing of QTI item space-shuttle-30-years-of-adventure' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:29 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:29 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:29 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:29 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841489540420' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:30 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:30 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:30 [INFO] 'Started parsing of QTI item upload' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:30 [INFO] 'No responseProcessing found for QTI Item, setting empty custom' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 455
+2014-09-27 18:11:30 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:30 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:30 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:30 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:30 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:30 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:30 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i141184149012723' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:30 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:30 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:30 [INFO] 'Started parsing of QTI item match-single-cardinality' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:30 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:31 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841490601525' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:31 [INFO] 'Started parsing of QTI item match-multiple-cardinality' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:31 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:31 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841491304828' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:31 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:31 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:31 [INFO] 'Started parsing of QTI item inlineChoice' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:31 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:32 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:32 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:32 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:32 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:32 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:32 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:32 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841491143831' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:32 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:32 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:32 [INFO] 'Started parsing of QTI item hottext' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:32 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:33 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841492277934' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:33 [INFO] 'Started parsing of QTI item hotspot' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:33 [DEBUG] 'Processing is Template converted to TemplateDriven' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 786
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:33 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841493350237' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:33 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:33 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:33 [INFO] 'Started parsing of QTI item Example01-modalFeedback' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 388
+2014-09-27 18:11:33 [TRACE] 'not Template' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 761
+2014-09-27 18:11:33 [TRACE] 'Not template driven, unknown rule' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 1134
+2014-09-27 18:11:33 [DEBUG] 'ResponseProcessing is custom' C:\xampp\htdocs\tao\taoQtiItem\model\qti\ParserFactory.php 807
+2014-09-27 18:11:34 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:34 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:34 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:34 [INFO] 'add called on local directory ' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 156
+2014-09-27 18:11:34 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:34 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:34 [INFO] 'Get itemContent for item http://localhost/tao.rdf#i1411841493513340' C:\xampp\htdocs\tao\taoItems\models\classes\class.ItemsService.php 248
+2014-09-27 18:11:34 [INFO] 'getStatus called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 198
+2014-09-27 18:11:34 [INFO] 'commit called on local directory' C:\xampp\htdocs\tao\generis\core\kernel\versioning\local\class.File.php 65
+2014-09-27 18:11:34 [DEBUG] 'Done installing local data for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:34 [DEBUG] 'Extended install for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:34 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:34 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:34 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOItem.rdf#QTIManagerRole created for extension 'taoQtiItem'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:34 [INFO] 'Spawning Module/Action model for extension taoQtiItem' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:34 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:34 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:34 [DEBUG] 'Namespace not empty for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.Extension.php 325
+2014-09-27 18:11:35 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:35 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:35 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:35 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:35 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:35 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:35 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:35 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:35 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:35 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:35 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:35 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:36 [DEBUG] 'Done extended install for extension taoQtiItem' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:36 [WARNING] 'Extension taoQtiItem installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:36 [DEBUG] 'Considering extension taoQtiTest' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:36 [INFO] 'Installing extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:36 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoQtiTest/models/ontology/qtitest.rdf for taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:36 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoQtiTest/models/ontology/taoQtiTestItemRunner.rdf for taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:37 [DEBUG] 'Registering extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:37 [INFO] 'Loading constants for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [DEBUG] 'Installing custom script for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:37 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\taoQtiTest/scripts/install/addQtiTestFolder.php for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg3c0776dd2ff6cc2d9650d47ae4b0a7bc'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryUrl' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgcf473415d58967564dda0eb8d2f1aaff'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryPath' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg21f1608662fb5835c6446f4a624bf2be'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryType' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg7a8749c54fef30dc73653c5a6679a3a0'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryLogin' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLge9ea26987a7c8a40bbd9c5b0eea5ac04'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryPassword' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgf6640766e16c1c875b080586d94e6a21'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#VersionedRepositoryEnabled' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg8ee41a180c1e6ad0754535af389c2883'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FileName' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1a8f9a863d623242d629c840750988c6'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FilePath' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgb4cccedbcd0e4b357db635a401fbc7bc'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#FileRepository' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\taoQtiTest/scripts/install/addQtiTestAcceptableLatency.php for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:11:37 [DEBUG] 'Done installing custom script for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:37 [DEBUG] 'Installing local data for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:37 [DEBUG] 'Done installing local data for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:37 [DEBUG] 'Extended install for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgdacf627f3d9075d7c805ce9d42521333'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#comment' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOTest.rdf#TaoQtiManagerRole created for extension 'taoQtiTest'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:37 [INFO] 'Spawning Module/Action model for extension taoQtiTest' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:37 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:37 [DEBUG] 'Done extended install for extension taoQtiTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:37 [WARNING] 'Extension taoQtiTest installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:37 [DEBUG] 'Considering extension taoWfTest' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:37 [INFO] 'Installing extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:37 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoWfTest/models/ontology/wftest.rdf for taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:37 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoWfTest/models/ontology/itemContainer.rdf for taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:38 [DEBUG] 'Registering extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:38 [INFO] 'Loading constants for extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [DEBUG] 'Installing custom script for extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:38 [DEBUG] 'Done installing custom script for extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:38 [DEBUG] 'Installing local data for extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:38 [DEBUG] 'Done installing local data for extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:38 [DEBUG] 'Extended install for extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgdacf627f3d9075d7c805ce9d42521333'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#comment' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAOTest.rdf#WfTestManagerRole created for extension 'taoWfTest'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:38 [INFO] 'Spawning Module/Action model for extension taoWfTest' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:38 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:38 [DEBUG] 'Done extended install for extension taoWfTest' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:38 [WARNING] 'Extension taoWfTest installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:38 [DEBUG] 'Considering extension taoDelivery' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:38 [INFO] 'Installing extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:38 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoDelivery/models/ontology/taodelivery.rdf for taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:42 [DEBUG] 'Registering extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:42 [INFO] 'Loading constants for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:42 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:42 [DEBUG] 'Installing custom script for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:42 [DEBUG] 'Running custom install script C:\xampp\htdocs\tao\taoDelivery\scripts\postInstall.php for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 255
+2014-09-27 18:11:42 [DEBUG] 'Done installing custom script for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:42 [DEBUG] 'Installing local data for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:42 [DEBUG] 'Done installing local data for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:42 [DEBUG] 'Extended install for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:42 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:42 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:42 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAODelivery.rdf#DeliveryManagerRole created for extension 'taoDelivery'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:42 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:42 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:42 [DEBUG] 'Done extended install for extension taoDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:42 [WARNING] 'Extension taoDelivery installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:42 [DEBUG] 'Considering extension taoSimpleDelivery' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:42 [INFO] 'Installing extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:42 [DEBUG] 'Inserting model C:\xampp\htdocs\tao\taoSimpleDelivery/models/ontology/model.rdf for taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 179
+2014-09-27 18:11:43 [DEBUG] 'Registering extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:43 [INFO] 'Loading constants for extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [DEBUG] 'Installing custom script for extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:43 [DEBUG] 'Done installing custom script for extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:43 [DEBUG] 'Installing local data for extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:43 [DEBUG] 'Done installing local data for extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:43 [DEBUG] 'Extended install for extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgdacf627f3d9075d7c805ce9d42521333'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#comment' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/TAODelivery.rdf#taoSimpleDeliveryManagerRole created for extension 'taoSimpleDelivery'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:43 [INFO] 'Spawning Module/Action model for extension taoSimpleDelivery' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLga3eb4fcc7667ee5e5aa2abc603b14202'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#GrantAccess' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [DEBUG] 'Done extended install for extension taoSimpleDelivery' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:43 [WARNING] 'Extension taoSimpleDelivery installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:43 [DEBUG] 'Considering extension taoCe' C:\xampp\htdocs\tao\tao\install\class.Installator.php 311
+2014-09-27 18:11:43 [INFO] 'Installing extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 62
+2014-09-27 18:11:43 [DEBUG] 'Registering extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 235
+2014-09-27 18:11:43 [INFO] 'Loading constants for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 302
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\oat_autoloader'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [DEBUG] 'Installing custom script for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 96
+2014-09-27 18:11:43 [DEBUG] 'Done installing custom script for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 98
+2014-09-27 18:11:43 [DEBUG] 'Installing local data for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 101
+2014-09-27 18:11:43 [DEBUG] 'Done installing local data for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 103
+2014-09-27 18:11:43 [DEBUG] 'Extended install for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 106
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc74e2b735dd8dc85ad0ee3510c33925f'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/1999/02/22-rdf-syntax-ns#type' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg4f75ce12336ab89a4edebd807cd62265'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#label' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgdacf627f3d9075d7c805ce9d42521333'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.w3.org/2000/01/rdf-schema#comment' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg1d5195a9e5823eef70adcf5e3905def2'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/generis.rdf#includesRole' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [DEBUG] 'Management Role http://www.tao.lu/Ontologies/generis.rdf#taoCeManager created for extension 'taoCe'.' C:\xampp\htdocs\tao\tao\install\class.ExtensionInstaller.php 92
+2014-09-27 18:11:43 [INFO] 'Spawning Module/Action model for extension taoCe' C:\xampp\htdocs\tao\funcAcl\helpers\class.Model.php 51
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg45a7b302210b9b23c52e2d699259c360'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#Identifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [DEBUG] 'Namespace not empty for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.Extension.php 325
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg66d2043af206489a37c491c0140b53c5'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleExtension' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgc20e97e18c716526a5baa71264e216b8'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#moduleIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg0c3b7bdee90864c879cc504d176ad6fd'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionMemberOf' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg741760dee782ee3134bb9d5fb25b7519'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#actionIdentifier' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLgeceb5f019ef19a46e76575fad70baa1b'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessAction' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [INFO] 'Unable to read cache file 'C:\xampp\htdocs\tao\generis\data\generis\cache\isPropertyLg41f2a58ccc079e428bfcd5c77c1923e4'.' C:\xampp\htdocs\tao\generis\common\cache\class.FileCache.php 121
+2014-09-27 18:11:43 [INFO] 'Could not find Lgdependent cache , initializing for http://www.tao.lu/Ontologies/taoFuncACL.rdf#grantAccessModule' C:\xampp\htdocs\tao\generis\helpers\class.PropertyLgCacheHelper.php 35
+2014-09-27 18:11:43 [DEBUG] 'Done extended install for extension taoCe' C:\xampp\htdocs\tao\generis\common\ext\class.ExtensionInstaller.php 111
+2014-09-27 18:11:43 [WARNING] 'Extension taoCe installed' C:\xampp\htdocs\tao\tao\install\class.Installator.php 322
+2014-09-27 18:11:43 [INFO] 'Spawning SuperUser ahmedjabar' C:\xampp\htdocs\tao\tao\install\class.Installator.php 347
+2014-09-27 18:11:43 [DEBUG] 'Creating TAO version file' C:\xampp\htdocs\tao\tao\install\class.Installator.php 383

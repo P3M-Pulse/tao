@@ -1,0 +1,1 @@
+<span>Hello <?=get_data('name')?></span>

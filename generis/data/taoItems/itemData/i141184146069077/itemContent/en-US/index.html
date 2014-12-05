@@ -1,0 +1,82 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+"http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+  <!-- 
+	whale - Creative Commons Attribution 3.0 Unported - Whit Welles
+	red-lory - Creative Commons Attribution 2.0 Generic - Andrew Kraker
+	lion - Creative Commons Attribution 2.0 Generic - wwarby
+	snake - Creative Commons Attribution 2.5 Generic - Danleo
+	shark - Creative Commons Attribution 2.5 Generic - Terry Goss
+	brown-pelican - Public Domain - U.S. National Oceanic and Atmospheric Administration
+	bear - Creative Commons Attribution 2.0 Generic - Carl Chapman
+	bee - Public Domain - John Severns
+	green-carabidae - Creative Commons Attribution 2.5 Generic - Alvesgaspar
+	fish - Creative Commons Attribution 2.5 Generic - Diliff
+  -->
+  <head>
+    <title>Natural Science - Biology</title>
+	<!-- JavaScript files -->
+	<script type="text/javascript" src="scripts/jquery-1.4.4.min.js"></script>
+	<script type="text/javascript" src="scripts/jquery.imgpreload.min.js"></script>
+	<script type="text/javascript" src="scripts/series.js"></script>
+	<script type="text/javascript" src="scripts/taoApi.min.js"></script>
+	
+	<!-- Stylesheets -->
+	<link rel="stylesheet" type="text/css" media="screen" href="series.css"/>
+  </head>
+  
+  <!-- Item body -->
+  <body>
+    <div id="item">
+     <h1>Natural Science - Biology</h1>
+	 <p id="prompt">
+	    In each set of animals, select the <em>mammals</em>.
+	 </p>
+	 <p id="instruction">
+	  Use the arrows to switch from one animal to another. When you are done, click on the <em>Validate</em> button.
+	 </p>
+	  <div id="image_selector1" class="image_selector">
+		<div class="image_container">
+	      <img class="thing" id="bear" src="bear.jpg" alt="An animal" title="An Animal"/>
+	      <img class="thing" id="bee" src="bee.jpg" alt="An Animal" title="An Animal"/>
+	      <img class="thing" id="pelican" src="brown-pelican.jpg" alt="An Animal" title="An Animal"/>
+		</div>
+	    <div class="navigation">
+	      <button class="previous" disabled="disabled" title="Previous"></button>
+		  <button class="next" disabled="disabled" title="Next"></button>
+	    </div>
+	  </div>
+	  
+	  <div id="image_selector2" class="image_selector">
+		<div class="image_container">
+	      <img class="thing" id="fish" src="fish.jpg" alt="An Animal" title="An Animal"/>
+	      <img class="thing" id="carabidae" src="green-carabidae.jpg" alt="An Animal" title="An Animal"/>
+	      <img class="thing" id="lion" src="lion.jpg" alt="An Animal" title="An Animal"/>
+		</div>
+	    <div class="navigation">
+	      <button class="previous" disabled="disabled" title="Previous"></button>
+		  <button class="next" disabled="disabled" title="Next"></button>
+	    </div>
+	  </div>
+	  
+	  <div id="image_selector3" class="image_selector">
+		<div class="image_container">
+	      <img class="thing" id="red-lory" src="red-lory.jpg" alt="An Animal" title="An Animal"/>
+	      <img class="thing" id="snake" src="snake.jpg" alt="An Animal" title="An Animal"/>
+	      <img class="thing" id="whale" src="whale.jpg" alt="An Animal" title="An Animal"/>
+		</div>
+	    <div class="navigation">
+	      <button class="previous" disabled="disabled" title="Previous"></button>
+		  <button class="next" disabled="disabled" title="Next"></button>
+	    </div>
+	  </div>
+	  
+	  <div class="clear"></div>
+	  
+	  <div id="validation">
+	    <button id="validation-trigger" disabled="disabled" title="Validate">Validate</button>
+	  </div>
+	</div>
+  </body>
+</html>

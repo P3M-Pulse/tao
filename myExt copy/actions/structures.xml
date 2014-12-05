@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!DOCTYPE extension SYSTEM "../../tao/doc/structures.dtd">
+<structure id='myExt' name="MYEXT" level="3" visible="true">
+  <description>Copyright @ PM-Partners.</description>
+  <sections>
+    <section id="manage_docs" name="Manage documents" url="/myExt/Browser/index">
+      <trees>
+      </trees>
+      <actions>
+      </actions>
+    </section>
+  </sections>
+</structure>

@@ -1,0 +1,1 @@
+<?php return 'funcAcl_models_classes_FuncAcl';

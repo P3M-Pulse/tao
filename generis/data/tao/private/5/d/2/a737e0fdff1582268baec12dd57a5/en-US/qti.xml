@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<assessmentItem xmlns="http://www.imsglobal.org/xsd/imsqti_v2p1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imsqti_v2p1  http://www.imsglobal.org/xsd/qti/qtiv2p1/imsqti_v2p1.xsd" identifier="i1411984423731671" title="Business skills &amp; attributes bis 6" label="" xml:lang="en-US" adaptive="false" timeDependent="false" toolName="TAO" toolVersion="2.6.5">
+  <responseDeclaration identifier="RESPONSE" cardinality="single" baseType="identifier">
+    <mapping defaultValue="0" lowerBound="0" upperBound="100">
+      <mapEntry mapKey="choice_1" mappedValue="100"/>
+      <mapEntry mapKey="choice_2" mappedValue="75"/>
+      <mapEntry mapKey="choice_3" mappedValue="50"/>
+      <mapEntry mapKey="choice_4" mappedValue="25"/>
+    </mapping>
+  </responseDeclaration>
+  <outcomeDeclaration identifier="SCORE" cardinality="single" baseType="float"/>
+  <itemBody>
+    <div class="grid-row">
+      <div class="col-12">
+        <choiceInteraction responseIdentifier="RESPONSE" shuffle="false" maxChoices="1" minChoices="0" orientation="vertical">
+          <prompt>He/She analyses facts and prioritize options when making decisions in his/her project</prompt>
+          <simpleChoice identifier="choice_1" fixed="false" showHide="show">
+            <p>He/She has mastered all indicators of this skill and I provide coaching to others.</p>
+          </simpleChoice>
+          <simpleChoice identifier="choice_2" fixed="false" showHide="show">
+            <p>He/She has mastered most of the indicators of this skill.</p>
+          </simpleChoice>
+          <simpleChoice identifier="choice_3" fixed="false" showHide="show">
+            <p>He/She has utilised some indicators of this skill.</p>
+          </simpleChoice>
+          <simpleChoice identifier="choice_4" fixed="false" showHide="show">
+            <p>He/She does not possess this skill.</p>
+          </simpleChoice>
+        </choiceInteraction>
+      </div>
+    </div>
+  </itemBody>
+  <responseProcessing template="http://www.imsglobal.org/question/qti_v2p1/rptemplates/map_response"/>
+</assessmentItem>

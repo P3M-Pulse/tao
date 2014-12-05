@@ -1,0 +1,1 @@
+<?php return '{"RESPONSE":{"list":{"identifier":["Prehistory","MiddleAges","ContemporaryEra","ModernEra","Antiquity"]}}}';

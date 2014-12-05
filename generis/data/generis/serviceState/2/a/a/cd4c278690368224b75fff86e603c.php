@@ -1,0 +1,1 @@
+<?php return '{"RESPONSE":{"base":{"integer":28}}}';

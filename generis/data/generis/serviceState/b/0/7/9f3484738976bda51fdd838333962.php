@@ -1,0 +1,1 @@
+<?php return '{"RESPONSE":{"base":{"file":{"name":"bkg-blu.jpg","mime":"qti+application/octet-stream","data":"cXRpX2ZpbGVfZGF0YXR5cGVfcGxhY2Vob2xkZXJfZGF0YQ=="}}}}';

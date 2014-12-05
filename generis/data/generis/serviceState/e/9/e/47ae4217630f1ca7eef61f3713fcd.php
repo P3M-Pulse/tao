@@ -1,0 +1,1 @@
+<?php return '{"RESPONSE":{"list":{"pair":[["Mo","Tr"],["Ga","Ne"],["Ju","Ea"]]}}}';
